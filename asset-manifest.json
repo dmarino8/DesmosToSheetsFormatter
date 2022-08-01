@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DesmosToSheetsFormatter/static/css/main.073c9b0a.css",
+    "main.js": "/DesmosToSheetsFormatter/static/js/main.73e816ec.js",
+    "static/js/787.c1d9d4e2.chunk.js": "/DesmosToSheetsFormatter/static/js/787.c1d9d4e2.chunk.js",
+    "index.html": "/DesmosToSheetsFormatter/index.html",
+    "main.073c9b0a.css.map": "/DesmosToSheetsFormatter/static/css/main.073c9b0a.css.map",
+    "main.73e816ec.js.map": "/DesmosToSheetsFormatter/static/js/main.73e816ec.js.map",
+    "787.c1d9d4e2.chunk.js.map": "/DesmosToSheetsFormatter/static/js/787.c1d9d4e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73e816ec.js"
+  ]
+}
