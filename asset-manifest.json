@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DesmosToSheetsFormatter/static/css/main.073c9b0a.css",
-    "main.js": "/DesmosToSheetsFormatter/static/js/main.73e816ec.js",
+    "main.css": "/DesmosToSheetsFormatter/static/css/main.1ec70406.css",
+    "main.js": "/DesmosToSheetsFormatter/static/js/main.a4b74a5e.js",
     "static/js/787.c1d9d4e2.chunk.js": "/DesmosToSheetsFormatter/static/js/787.c1d9d4e2.chunk.js",
     "index.html": "/DesmosToSheetsFormatter/index.html",
-    "main.073c9b0a.css.map": "/DesmosToSheetsFormatter/static/css/main.073c9b0a.css.map",
-    "main.73e816ec.js.map": "/DesmosToSheetsFormatter/static/js/main.73e816ec.js.map",
+    "main.1ec70406.css.map": "/DesmosToSheetsFormatter/static/css/main.1ec70406.css.map",
+    "main.a4b74a5e.js.map": "/DesmosToSheetsFormatter/static/js/main.a4b74a5e.js.map",
     "787.c1d9d4e2.chunk.js.map": "/DesmosToSheetsFormatter/static/js/787.c1d9d4e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.73e816ec.js"
+    "static/css/main.1ec70406.css",
+    "static/js/main.a4b74a5e.js"
   ]
 }
