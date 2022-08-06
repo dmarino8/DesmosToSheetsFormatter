@@ -24,17 +24,11 @@
 }
 
 .Container-section {
-  height: 90vh;
+  display:flex;
+  flex-direction: column;
+  height: 100vh;
   width: 85%;
   background-color: red;
-  overflow-y : scroll;
-}
-.Container-table {
-  width: 100%;
-}
-tr,table,td,th {
-  border: 1px solid black;
-  border-collapse: collapse;
 }
 .Container-textarea {
   width: 100%;
@@ -46,6 +40,13 @@ tr,table,td,th {
 }
 textarea:focus {
   outline: none !important;
+  
+}
+textarea {
+  white-space: pre;
+  overflow-wrap: normal;
+  overflow-x: scroll;
+  overflow-y: scroll;
 }
 .App-container {
   display: flex;
@@ -58,7 +59,7 @@ textarea:focus {
   height: 100vh;
 }
 .Button-container {
+  justify-content: center;
   display: flex;
   flex-direction: row;
-  
 }

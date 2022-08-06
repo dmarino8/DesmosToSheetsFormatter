@@ -1,5 +1,5 @@
 import './App.css';
-const EntryFormat = () => {
+const EntryFormat = (setFormattedEntry) => {
     return (
         <div>
                 <textarea className='Container-textarea'></textarea>
